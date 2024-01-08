@@ -1,0 +1,7 @@
+getpass==1.0
+os-sys==1.0  # The os and sys modules are part of the Python standard library
+json==2.0.9
+pathlib==1.0.1
+subprocess==1.0.1
+email==6.0.1  # This includes email.mime.text, email.mime.multipart, email.mime.base, and email.encoders
+smtplib==1.0.1
